@@ -1,0 +1,6 @@
+{
+  "name": "Madlift Media | Medical Creative Agency",
+  "description": "Premium medical branding, creative content production, social media management, and automation for doctors and healthcare professionals. By a Doctor, For Doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
